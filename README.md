@@ -103,7 +103,7 @@ Example:
 
 ![Trend_Visualization](Screenshots/visualization.png)
 
-![Trend_Visualization of Sales](Screenshots/Auto_trend_Visualization_of_Sales.pngg)
+![Trend_Visualization of Sales](Screenshots/Auto_trend_Visualization_of_Sales.png)
 
 ---
 
