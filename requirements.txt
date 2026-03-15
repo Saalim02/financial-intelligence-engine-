@@ -8,4 +8,4 @@ python-dotenv==1.0.1
 pandasql==0.7.3
 openpyxl==3.1.2
 sqlalchemy==2.0.29
-pillow==10.2.0
+pillow>=10.0
