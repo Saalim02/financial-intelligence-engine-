@@ -79,7 +79,7 @@ Example:
 • Sales aggregation
 • Category analysis
 
-![Aggregation_Insights](Screenshots/AutoAgrregationInsights.png)
+![Aggregation_Insights](Screenshots/Auto_Aggregation_Insights.png)
 
 
 ---
