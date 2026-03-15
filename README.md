@@ -66,7 +66,7 @@ After uploading a dataset, the system automatically shows:
 🤖 Autonomous AI Insights
 The system can automatically generate insights from the dataset.
 
-![Auto_Insights](Screenshots/AutonomusAIinsights.png)
+![Auto_Insights](Screenshots/Autonomus_AI_insights.png)
 
 
 
